@@ -37,13 +37,13 @@ Figma
 
 # Screenshots  
 1. Welcome Screen
-<img width="250" height="500" alt="Splash screen" src="https://github.com/user-attachments/assets/380f9e31-d7bf-4c71-83c7-9a373cfec62f" />
+<img width="50" height="100" alt="Splash screen" src="https://github.com/user-attachments/assets/380f9e31-d7bf-4c71-83c7-9a373cfec62f" />
 
 2. Home Screen
-<img width="250" height="500" alt="Home page" src="https://github.com/user-attachments/assets/b4470c4f-99c6-4ff7-b84e-3eb6323ad210" />
+<img width="150" height="300" alt="Home page" src="https://github.com/user-attachments/assets/b4470c4f-99c6-4ff7-b84e-3eb6323ad210" />
 
 3. Destination Selection
-<img width="250" height="500" alt="Destination cards" src="https://github.com/user-attachments/assets/b8f35832-59a7-4037-b2bf-958fce4bfb68" />
+<img width="200" height="300" alt="Destination cards" src="https://github.com/user-attachments/assets/b8f35832-59a7-4037-b2bf-958fce4bfb68" />
 
 4. Indian Destination Cards
 <img width="250" height="500" alt="In india" src="https://github.com/user-attachments/assets/a4af0d1c-5f8c-4f8a-b614-c78c06aba926" />
