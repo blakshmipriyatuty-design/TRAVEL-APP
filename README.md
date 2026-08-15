@@ -97,7 +97,7 @@ Figma
 •	User-centered design
 
 # Figma Prototype
-https://www.figma.com/proto/CxAPBYOQBrgAXm5ASbKfvV/Wandernest-traveling-app?node-id=0-1&t=Oa3nWhn7OTnNKtk8-1
+https://www.figma.com/design/CxAPBYOQBrgAXm5ASbKfvV/Wandernest-traveling-app?node-id=0-1&m=dev&t=5238yRn451xytoRl-1
 
 # Project Structure 
 <img width="450" height="500" alt="Project Structure" src="https://github.com/user-attachments/assets/9c0d33b9-a9b3-4c1f-9bb6-9dcccc53e927" />
