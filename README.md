@@ -81,7 +81,7 @@ Figma
 15. Settings
 <img width="150" height="300" alt="Settings" src="https://github.com/user-attachments/assets/eed6f09c-d2c5-4373-801e-580cd0f28f94" />
 
-16. Booking Confirmatiom
+16. Booking Confirmation
 <img width="150" height="300" alt="Confiramtion of booking" src="https://github.com/user-attachments/assets/0004c23f-4a9b-46b0-8c49-1c786b22dca8" />
 
 17. Thank You Screen
