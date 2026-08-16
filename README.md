@@ -96,7 +96,7 @@ Figma
 •	Mobile-friendly layout
 •	User-centered design
 
-# Figma Prototype
+# Figma Prototype Link
 https://www.figma.com/design/CxAPBYOQBrgAXm5ASbKfvV/Wandernest-traveling-app?node-id=0-1&m=dev&t=5238yRn451xytoRl-1
 
 # Project Structure 
